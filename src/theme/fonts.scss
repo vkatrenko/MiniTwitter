@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&subset=cyrillic,latin');
+
+@font-face {
+    font-family: 'Oculus Sans';
+    src: url('fonts/oculussans-regular-webfont.eot');
+    src: url('fonts/oculussans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/oculussans-regular-webfont.woff2') format('woff2'),
+    url('fonts/oculussans-regular-webfont.woff') format('woff'),
+    url('fonts/oculussans-regular-webfont.ttf') format('truetype'),
+    url('fonts/oculussans-regular-webfont.svg#oculus_sansregular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oculus Sans';
+    src: url('fonts/oculussans-regularitalic-webfont.eot');
+    src: url('fonts/oculussans-regularitalic-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/oculussans-regularitalic-webfont.woff2') format('woff2'),
+    url('fonts/oculussans-regularitalic-webfont.woff') format('woff'),
+    url('fonts/oculussans-regularitalic-webfont.ttf') format('truetype'),
+    url('fonts/oculussans-regularitalic-webfont.svg#oculus_sansregular_italic') format('svg');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family:'Oculus Sans';
+    src:url('fonts/oculussans-semibold-webfont.eot');
+    src:url('fonts/oculussans-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/oculussans-semibold-webfont.woff2') format('woff2'),
+    url('fonts/oculussans-semibold-webfont.woff') format('woff'),
+    url('fonts/oculussans-semibold-webfont.ttf') format('truetype'),
+    url('fonts/oculussans-semibold-webfont.svg#oculus_sanssemibold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face { font-family: 'Oculus Sans';
+    src: url('fonts/oculussans-semibolditalic-webfont.eot');
+    src: url('fonts/oculussans-semibolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/oculussans-semibolditalic-webfont.woff2') format('woff2'),
+    url('fonts/oculussans-semibolditalic-webfont.woff') format('woff'),
+    url('fonts/oculussans-semibolditalic-webfont.ttf') format('truetype'),
+    url('fonts/oculussans-semibolditalic-webfont.svg#oculus_sanssemibold_italic') format('svg');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Oculus Sans';
+    src: url('fonts/oculussans-black-webfont.eot');
+    src: url('fonts/oculussans-black-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/oculussans-black-webfont.woff2') format('woff2'),
+    url('fonts/oculussans-black-webfont.woff') format('woff'),
+    url('fonts/oculussans-black-webfont.ttf') format('truetype'),
+    url('fonts/oculussans-black-webfont.svg#oculus_sansblack') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oculus Sans';
+    src: url('fonts/oculussans-blackitalic-webfont.eot');
+    src: url('fonts/oculussans-blackitalic-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/oculussans-blackitalic-webfont.woff2') format('woff2'),
+    url('fonts/oculussans-blackitalic-webfont.woff') format('woff'),
+    url('fonts/oculussans-blackitalic-webfont.ttf') format('truetype'),
+    url('fonts/oculussans-blackitalic-webfont.svg#oculus_sansblack_italic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+	font-family:'Myriad Set Pro';
+	font-style:normal;
+	font-weight:300;
+	src:local('☺︎'), url("fonts/myriad-set-pro_thin.woff") format("woff");
+	/* Copyright (c) 1992 Adobe Systems Incorporated. All Rights Reserved. Myriad is a trademark of Adobe Systems Incorporated. */
+}
+
+@font-face {
+	font-family:'Myriad Set Pro';
+	font-style:normal;
+	font-weight:600;
+	src:local('☺︎'), url("fonts/myriad-set-pro_semibold.woff") format("woff");
+	/* Copyright (c) 1992 Adobe Systems Incorporated. All Rights Reserved. Myriad is a trademark of Adobe Systems Incorporated. */
+}
+
+@font-face {
+	font-family:'Myriad Set Pro';
+	font-style:normal;
+	font-weight:400;
+	src:local('☺︎'), url("fonts/myriad-set-pro_text.woff") format("woff");
+	/* Copyright (c) 1992 Adobe Systems Incorporated. All Rights Reserved. Myriad is a trademark of Adobe Systems Incorporated. */
+}
